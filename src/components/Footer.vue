@@ -14,6 +14,7 @@
         <h4>CONTACT</h4>
         <p>
             <a href="tel:+32470031652" class="link">+324 70 03 16 52</a>
+            <a href="tel:+32498975695" class="link">+324 98 97 56 95</a>
             <a href="mailto:info@despeelberg.be" class="link">info@despeelberg.be</a>
             <br>
             <a href="https://www.messenger.com/t/despeelbergvzw" class="link" target="_blank">Facebook</a>
